@@ -1,7 +1,7 @@
 '''
 Program to sort the elements in the list using the Insertion Sort algorithm.
-Developed by: SRIJITH R
-RegisterNumber: 21004191
+Developed by: Jeswanth
+RegisterNumber: 21001768
 '''
 def insertion_sort(nums):
     # Write your code here to sort the elements in the list using Insertion sort algorithm
